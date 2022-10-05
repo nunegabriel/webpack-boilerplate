@@ -12,6 +12,7 @@
 
 To get the content of this project locally you need to run the following commands in your terminal.
 
+
 ### Prerequisites
 - IDE(code editor) like: **Vscode**, **Sublime**, etc. 
 - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
@@ -32,7 +33,12 @@ cd webpack-demo
 ```bash
 npm install
 ```
+### How to Run
+> To run the local dev server run:
 
+```bash
+npm run serve
+```
 ## Author
 
 👤 **Gabriel Nunekpeku**
